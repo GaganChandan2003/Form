@@ -1,0 +1,61 @@
+.data{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    flex-direction: column;
+    margin-left: 75px;
+
+}
+.data select
+{
+    margin: auto;
+    float: right;
+    padding: 10px;
+}
+.data table
+{
+    border: 2px solid grey;
+    border-collapse: collapse;
+    width: 1200px;
+    margin-top: 30px;
+}
+.data th{
+    border: 2px solid grey;
+    border-collapse: collapse;
+    height: 30px;
+}
+.data td
+{
+    border: 1px solid grey;
+    border-collapse: collapse; 
+    height: 40px;
+}
+.form
+{
+    background-image: url(https://media.istockphoto.com/photos/blueindigo-muslin-background-picture-id92395438?k=20&m=92395438&s=612x612&w=0&h=QZ3FEN2DBqfo96OvXR_kqOw8ulVdww1ftgqwxkbyCu8=);
+    width: 300px;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 30px;
+    color: white;
+}
+.input
+{
+  border: none;
+  outline: none;
+  border-bottom: 1px solid cyan;
+  font-size: 13px;
+  color: white;
+  background-color: transparent;
+  padding: 10px;
+}
+.ss
+{
+    background: transparent;
+    color: white;
+    padding: 10px;
+}

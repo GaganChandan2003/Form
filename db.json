@@ -1,0 +1,71 @@
+{
+  "form": [
+    {
+      "username": "GaganChandanP",
+      "userage": "18",
+      "address": "kgf",
+      "salary": "1200000",
+      "MS": true,
+      "id": 1
+    },
+    {
+      "check": false,
+      "username": "pablo",
+      "userage": "18",
+      "address": "kgf",
+      "salary": "1",
+      "MS": true,
+      "id": 2
+    },
+    {
+      "check": false,
+      "username": "Akshay Khanekar",
+      "userage": "22",
+      "address": "Pune",
+      "department": "Back End",
+      "salary": "1500000",
+      "MS": true,
+      "id": 3
+    },
+    {
+      "check": false,
+      "username": "Akshay Khanekar",
+      "userage": "22",
+      "address": "Pune",
+      "department": "Back End",
+      "salary": "1500000",
+      "MS": true,
+      "id": 4
+    },
+    {
+      "check": false,
+      "username": "Akshay Khanekar",
+      "userage": "22",
+      "address": "Pune",
+      "department": "Back End",
+      "salary": "1500000",
+      "MS": true,
+      "id": 5
+    },
+    {
+      "check": false,
+      "username": "Akshay Khanekar",
+      "userage": "22",
+      "address": "Pune",
+      "department": "Back End",
+      "salary": "1500000",
+      "MS": true,
+      "id": 6
+    },
+    {
+      "check": false,
+      "username": "marcus",
+      "userage": "15",
+      "address": "tftujcyj",
+      "department": "Back End",
+      "salary": "12000",
+      "MS": true,
+      "id": 7
+    }
+  ]
+}
